@@ -1,0 +1,20 @@
+﻿<div class="container">
+    <div class="row">
+        <div class="col-12 col-lg-8 offset-lg-2 text-center">
+            <div class="title">
+                <h2 class="display-2 text-teal">
+                    Your request is not valid.
+                    <br />
+                    Please see below:
+                </h2>
+
+                <ul>
+                    @foreach (var error in Model)
+                    {
+                        <li><h5>@error</h5></li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
