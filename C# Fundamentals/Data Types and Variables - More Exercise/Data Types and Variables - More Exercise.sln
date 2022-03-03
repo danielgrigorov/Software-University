@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Data Type Finder", "01. Data Type Finder\01. Data Type Finder.csproj", "{AFB95C86-8F0A-40C7-80F6-925CC876DBDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. From Left to The Right", "02. From Left to The Right\02. From Left to The Right.csproj", "{0EA3EB79-68BE-414F-A9CB-A1A363FEE511}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFB95C86-8F0A-40C7-80F6-925CC876DBDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFB95C86-8F0A-40C7-80F6-925CC876DBDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFB95C86-8F0A-40C7-80F6-925CC876DBDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFB95C86-8F0A-40C7-80F6-925CC876DBDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EA3EB79-68BE-414F-A9CB-A1A363FEE511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EA3EB79-68BE-414F-A9CB-A1A363FEE511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EA3EB79-68BE-414F-A9CB-A1A363FEE511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EA3EB79-68BE-414F-A9CB-A1A363FEE511}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EAB3B6B-DFD0-4035-8B1B-FAA81F79088F}
+	EndGlobalSection
+EndGlobal
