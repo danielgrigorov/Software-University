@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nested Conditional Statements - More Exercises - 01. Match T", "Nested Conditional Statements - More Exercises - 01. Match T\Nested Conditional Statements - More Exercises - 01. Match T.csproj", "{C7FF26F7-2AE1-495E-AEFF-B0EDD52F4C5C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nested Conditional Statements - More Exercises - 02. Bike Race", "Nested Conditional Statements - More Exercises\Nested Conditional Statements - More Exercises - 02. Bike Race.csproj", "{050B5B4F-3A92-4C97-9A53-3474C0E9E50A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nested Conditional Statements - More Exercises - 03. Flowers", "Nested Conditional Statements - More Exercises - 03. Flowers\Nested Conditional Statements - More Exercises - 03. Flowers.csproj", "{B294051C-EA41-4779-955A-F4AEC3933A26}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nested Conditional Statements - More Exercises - 04. Car To", "Nested Conditional Statements - More Exercises - 04. Car To\Nested Conditional Statements - More Exercises - 04. Car To.csproj", "{90690CD8-EA36-42DE-8588-A1E3536AD436}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nested Conditional Statements - More Exercises - 05. Vacatio", "Nested Conditional Statements - More Exercises - 05. Vacatio\Nested Conditional Statements - More Exercises - 05. Vacatio.csproj", "{142CD806-D2A2-4A40-B9E1-63A56166184A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested Conditional Statements - More Exercises - 06. Truck D", "Nested Conditional Statements - More Exercises - 06. Truck D\Nested Conditional Statements - More Exercises - 06. Truck D.csproj", "{EC1DB5BE-476F-4A1D-951B-977601C10305}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested Conditional Statements - More Exercises - 07. School", "Nested Conditional Statements - More Exercises - 07. School\Nested Conditional Statements - More Exercises - 07. School.csproj", "{6318E0FB-F835-48A3-BC85-10A366845720}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested Conditional Statements - More Exercises - 08. Point o", "Nested Conditional Statements - More Exercises - 08. Point o\Nested Conditional Statements - More Exercises - 08. Point o.csproj", "{47EF363D-D89D-46C1-9376-AC7851D378E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested Conditional Statements - More Exercises - 09. Numbers 1to10", "testt\Nested Conditional Statements - More Exercises - 09. Numbers 1to10.csproj", "{4A503D14-9A46-4658-AFBB-61910DD2769D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bonus", "bonus\bonus.csproj", "{8D62B1CE-185B-46FD-A7DD-A458911F1BDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nested Conditional Statements - More Exercises - 10. Multipl", "Nested Conditional Statements - More Exercises - 10. Multipl\Nested Conditional Statements - More Exercises - 10. Multipl.csproj", "{A64D0727-7F80-4AC6-B4FD-5C87A4B9F490}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7FF26F7-2AE1-495E-AEFF-B0EDD52F4C5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7FF26F7-2AE1-495E-AEFF-B0EDD52F4C5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7FF26F7-2AE1-495E-AEFF-B0EDD52F4C5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7FF26F7-2AE1-495E-AEFF-B0EDD52F4C5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{050B5B4F-3A92-4C97-9A53-3474C0E9E50A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{050B5B4F-3A92-4C97-9A53-3474C0E9E50A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{050B5B4F-3A92-4C97-9A53-3474C0E9E50A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{050B5B4F-3A92-4C97-9A53-3474C0E9E50A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B294051C-EA41-4779-955A-F4AEC3933A26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B294051C-EA41-4779-955A-F4AEC3933A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B294051C-EA41-4779-955A-F4AEC3933A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B294051C-EA41-4779-955A-F4AEC3933A26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90690CD8-EA36-42DE-8588-A1E3536AD436}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90690CD8-EA36-42DE-8588-A1E3536AD436}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90690CD8-EA36-42DE-8588-A1E3536AD436}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90690CD8-EA36-42DE-8588-A1E3536AD436}.Release|Any CPU.Build.0 = Release|Any CPU
+		{142CD806-D2A2-4A40-B9E1-63A56166184A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{142CD806-D2A2-4A40-B9E1-63A56166184A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{142CD806-D2A2-4A40-B9E1-63A56166184A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{142CD806-D2A2-4A40-B9E1-63A56166184A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC1DB5BE-476F-4A1D-951B-977601C10305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC1DB5BE-476F-4A1D-951B-977601C10305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC1DB5BE-476F-4A1D-951B-977601C10305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC1DB5BE-476F-4A1D-951B-977601C10305}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6318E0FB-F835-48A3-BC85-10A366845720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6318E0FB-F835-48A3-BC85-10A366845720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6318E0FB-F835-48A3-BC85-10A366845720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6318E0FB-F835-48A3-BC85-10A366845720}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47EF363D-D89D-46C1-9376-AC7851D378E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47EF363D-D89D-46C1-9376-AC7851D378E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47EF363D-D89D-46C1-9376-AC7851D378E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47EF363D-D89D-46C1-9376-AC7851D378E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A503D14-9A46-4658-AFBB-61910DD2769D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A503D14-9A46-4658-AFBB-61910DD2769D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A503D14-9A46-4658-AFBB-61910DD2769D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A503D14-9A46-4658-AFBB-61910DD2769D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D62B1CE-185B-46FD-A7DD-A458911F1BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D62B1CE-185B-46FD-A7DD-A458911F1BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D62B1CE-185B-46FD-A7DD-A458911F1BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D62B1CE-185B-46FD-A7DD-A458911F1BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A64D0727-7F80-4AC6-B4FD-5C87A4B9F490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A64D0727-7F80-4AC6-B4FD-5C87A4B9F490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A64D0727-7F80-4AC6-B4FD-5C87A4B9F490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A64D0727-7F80-4AC6-B4FD-5C87A4B9F490}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A00F443-C490-4E99-AEC8-DAC180E2245F}
+	EndGlobalSection
+EndGlobal

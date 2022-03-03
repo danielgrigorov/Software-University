@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conditional Statements - More Exercises - 01. Pipes In Pool", "Conditional Statements - More Exercises - 01. Pipes In Pool\Conditional Statements - More Exercises - 01. Pipes In Pool.csproj", "{A9C97F28-A00A-4340-BE25-265B813A1BFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditional Statements - More Exercises - 02. Sleepy Tom Cat", "Conditional Statements - More Exercises - 02. Sleepy Tom Cat\Conditional Statements - More Exercises - 02. Sleepy Tom Cat.csproj", "{C32A5CE2-E345-4472-8D06-07EA152802E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditional Statements - More Exercises - 03. Harvest", "Conditional Statements - More Exercises - 03. Harvest\Conditional Statements - More Exercises - 03. Harvest.csproj", "{2067E291-B7A5-4484-B39F-3890CAAF9ED8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditional Statements - More Exercises - 04. Transport Pric", "Conditional Statements - More Exercises - 04. Transport Pric\Conditional Statements - More Exercises - 04. Transport Pric.csproj", "{24F15D2B-932E-483C-8699-3CCD21E43862}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditional Statements - More Exercises - 05. Firm", "Conditional Statements - More Exercises - 05. Firm\Conditional Statements - More Exercises - 05. Firm.csproj", "{255D7C2C-4705-4FF3-AFA1-74913A1CEBAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditional Statements - More Exercises - 06. Pets", "Conditional Statements - More Exercises - 06. Pets\Conditional Statements - More Exercises - 06. Pets.csproj", "{EDAE1953-349C-4609-8922-0EF071CB962A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditional Statements - More Exercises - 07. Flower Shop", "Conditional Statements - More Exercises - 07. Flower Shop\Conditional Statements - More Exercises - 07. Flower Shop.csproj", "{9910C3A9-C7FE-4C33-9C34-082DC669373D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditional Statements - More Exercises - 08. Fuel Tank", "Conditional Statements - More Exercises - 08. Fuel Tank\Conditional Statements - More Exercises - 08. Fuel Tank.csproj", "{9DE379C2-29B6-449C-8955-1530E5A8B4D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditional Statements - More Exercises - 08. Fuel Tank - Pa", "Conditional Statements - More Exercises - 08. Fuel Tank - Pa\Conditional Statements - More Exercises - 08. Fuel Tank - Pa.csproj", "{1961C141-971E-4E4A-8DE5-5E99CA958DA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9C97F28-A00A-4340-BE25-265B813A1BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9C97F28-A00A-4340-BE25-265B813A1BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9C97F28-A00A-4340-BE25-265B813A1BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9C97F28-A00A-4340-BE25-265B813A1BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C32A5CE2-E345-4472-8D06-07EA152802E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C32A5CE2-E345-4472-8D06-07EA152802E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C32A5CE2-E345-4472-8D06-07EA152802E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C32A5CE2-E345-4472-8D06-07EA152802E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2067E291-B7A5-4484-B39F-3890CAAF9ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2067E291-B7A5-4484-B39F-3890CAAF9ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2067E291-B7A5-4484-B39F-3890CAAF9ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2067E291-B7A5-4484-B39F-3890CAAF9ED8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24F15D2B-932E-483C-8699-3CCD21E43862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24F15D2B-932E-483C-8699-3CCD21E43862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24F15D2B-932E-483C-8699-3CCD21E43862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24F15D2B-932E-483C-8699-3CCD21E43862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{255D7C2C-4705-4FF3-AFA1-74913A1CEBAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{255D7C2C-4705-4FF3-AFA1-74913A1CEBAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{255D7C2C-4705-4FF3-AFA1-74913A1CEBAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{255D7C2C-4705-4FF3-AFA1-74913A1CEBAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDAE1953-349C-4609-8922-0EF071CB962A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDAE1953-349C-4609-8922-0EF071CB962A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDAE1953-349C-4609-8922-0EF071CB962A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDAE1953-349C-4609-8922-0EF071CB962A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9910C3A9-C7FE-4C33-9C34-082DC669373D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9910C3A9-C7FE-4C33-9C34-082DC669373D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9910C3A9-C7FE-4C33-9C34-082DC669373D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9910C3A9-C7FE-4C33-9C34-082DC669373D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DE379C2-29B6-449C-8955-1530E5A8B4D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE379C2-29B6-449C-8955-1530E5A8B4D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE379C2-29B6-449C-8955-1530E5A8B4D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE379C2-29B6-449C-8955-1530E5A8B4D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1961C141-971E-4E4A-8DE5-5E99CA958DA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1961C141-971E-4E4A-8DE5-5E99CA958DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1961C141-971E-4E4A-8DE5-5E99CA958DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1961C141-971E-4E4A-8DE5-5E99CA958DA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {736B2FE9-FA6C-427C-8E76-84FF80D55CB1}
+	EndGlobalSection
+EndGlobal
